@@ -241,7 +241,7 @@ Lab Duration: **10 Minutes**
 
 	![](./1079113.jpg)
 
-1. To determine if the target website is blacklisted or not, type the target website URL \(here, **www.certifiedhacker.com**\) in the search now field and then click on **SEARCH NOW!** button.
+1. To determine if the target website is blacklisted or not, type the target website URL (here, **www.certifiedhacker.com**) in the search now field and then click on **SEARCH NOW!** button.
 
 	![](./1079114.jpg)
 
@@ -851,7 +851,7 @@ Lab Duration: **40 Minutes**
 
 	![](./dwhptoxt.jpg)
 
-29. Now, we shall **identify the mail exchanger** information. **Right-click** the corresponding domain entity \(here, **www.certifiedhacker.com**\) and select **All Transforms** and click **To DNS Name - MX \(mail server\)**.
+29. Now, we shall **identify the mail exchanger** information. **Right-click** the corresponding domain entity (here, **www.certifiedhacker.com**) and select **All Transforms** and click **To DNS Name - MX \(mail server\)**.
 
 	![](./50kh1iqa.jpg)
 
@@ -861,7 +861,7 @@ Lab Duration: **40 Minutes**
 
 	![](./gcs0ci11.jpg)
 
-31. Now, we shall **identify the Name Server** information. **Right-click** the corresponding domain entity \(here, **www.certifiedhacker.com**\) and select **All Transforms** and click **To DNS Name - NS \(name server\)**.
+31. Now, we shall **identify the Name Server** information. **Right-click** the corresponding domain entity (here, **www.certifiedhacker.com**) and select **All Transforms** and click **To DNS Name - NS \(name server\)**.
 
 	![](./rlex0zks.jpg)
 
