@@ -1274,7 +1274,7 @@ Lab Duration: **45 Minutes**
 
 	![](./1079686.jpg)
 
-1. Open any web browser \(here, **Mozilla Firefox**\). Mozilla Firefox browser appears, in the address bar type **https://www.virustotal.com/\# /home/upload** and press **Enter**. VirusTotal home page appears, click **Choose file** button as shown in the screenshot.
+1. Open any web browser (here, **Mozilla Firefox**\). Mozilla Firefox browser appears, in the address bar type **https://www.virustotal.com/home/upload** and press **Enter**. VirusTotal home page appears, click **Choose file** button as shown in the screenshot.
 
 	![](./1079771.jpg)
 
@@ -1362,7 +1362,7 @@ Lab Duration: **45 Minutes**
 
 	![](./1079789.jpg)
 
-1. Now, we need a **VT Public API Key** in order to proceed further. This key can be found in the **VirusTotal** website. You need to register in VirusTotal community. Maximise the **Mozilla Firefox** and open a new tab. In the address bar of the new tab type **https://www.virustotal.com/\# /join-us** and press **Enter**, fill the details and click **Join us** button to join the community.
+1. Now, we need a **VT Public API Key** in order to proceed further. This key can be found in the **VirusTotal** website. You need to register in VirusTotal community. Maximise the **Mozilla Firefox** and open a new tab. In the address bar of the new tab type **https://www.virustotal.com/join-us** and press **Enter**, fill the details and click **Join us** button to join the community.
 
 	![](./1079790.jpg)
 
