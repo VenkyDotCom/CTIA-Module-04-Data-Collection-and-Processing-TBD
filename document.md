@@ -53,7 +53,7 @@ Lab Duration: **25 Minutes**
 	  
 	Scroll down the page and review the latest entries. These are entries that have been discovered and submitted by the community. Take a few minutes and click on a few of them and see what you can discover. As you can see, these links can display quite a bit of information. Some of them may fail because the queries have been discovered, but you should be able to find valuable information when you are doing your testing.
 
-1. [] Click **Filters**.
+1. Click **Filters**.
 
 	![](./pzvk4p4i.jpg)
 
@@ -1097,7 +1097,7 @@ Lab Duration: **30 Minutes**
 	  
 	 ![](./rn2.jpg)
 	
-18. Edit Link window appears, type **http://www.hotelbooking.com/holiday\_offers** in the **Text to display** field. Make sure that Web address radio button is selected under Link to section and type **http://10.10.1.11** in the respective field, and then click **OK**.
+18. Edit Link window appears, type **http://www.hotelbooking.com/holiday_offers** in the **Text to display** field. Make sure that Web address radio button is selected under Link to section and type **http://10.10.1.11** in the respective field, and then click **OK**.
 
 	>Note: 10.10.1.11 is the IP address of the Parrot Security machine.
 
