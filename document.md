@@ -35,7 +35,7 @@ The objective of this lab is to demonstrate:
 
 Lab Duration: **25 Minutes**  
 
-1. By default, **Windows 10** machine is selected click **Ctrl+Alt+Delete**.
+1. By default, **Windows 10** machine is selected click **Ctrl+Alt+Del**.
 
 	![](./1078435.jpg)
 
@@ -107,11 +107,11 @@ Lab Duration: **25 Minutes**
 
 	![](./r2d2trcg.jpg)
 
-1. Click on any one of the links to view the **jsp admin websites**. \(Here, we selected **https://www.instantreg.com/eregistration/login.jsp**\). Ensure that the organizational website does not contain such vulnerability. This concludes the demonstration of open source intelligence gathering using the **Google Hacking Database**. You can conduct a series of queries and review the information related to the threats concerning the organization from the Google hacking site. You can document all the acquired information. Open a new tab and close all the old tabs.
+1. Click on any one of the links to view the **jsp admin websites**. \(Here, we selected https://www.instantreg.com/eregistration/login.jsp/). Ensure that the organizational website does not contain such vulnerability. This concludes the demonstration of open source intelligence gathering using the **Google Hacking Database**. You can conduct a series of queries and review the information related to the threats concerning the organization from the Google hacking site. You can document all the acquired information. Open a new tab and close all the old tabs.
 
 	![](./3bfev5aj.jpg)
 
-1. Now, we shall perform the open source intelligence gathering using ThreatCrowd. In the new tab window type **https://www.threatcrowd.org** in the address bar and press **Enter**. A Search Engine for Threats page appears as shown in the screenshot. In the search field, type the organization&rsquo;s URL that you wish to analyse \(here, **www.certifiedhacker.com**\) and click **SEARCH NOW &gt;**.
+1. Now, we shall perform the open source intelligence gathering using ThreatCrowd. In the new tab window type **https://www.threatcrowd.org** in the address bar and press **Enter**. A Search Engine for Threats page appears as shown in the screenshot. In the search field, type the organization&rsquo;s URL that you wish to analyse (here, **www.certifiedhacker.com**) and click **SEARCH NOW &gt;**.
 
 	![](./1079096.jpg)
 
@@ -205,7 +205,7 @@ The objective of this lab is to demonstrate:
 
 Lab Duration: **10 Minutes**
 
-1. By default, **Windows 10** machine is selected click **Ctrl+Alt+Delete**.
+1. By default, **Windows 10** machine is selected click **Ctrl+Alt+Del**.
 
 	>Note: If you are already logged in the Windows 10 machine then skip to step **3**.
 
@@ -280,7 +280,7 @@ The objective of this lab is to demonstrate:
   
 Lab Duration: **10 Minutes**
 
-1. By default, **Windows 10** machine is selected click **Ctrl+Alt+Delete**.
+1. By default, **Windows 10** machine is selected click **Ctrl+Alt+Del**.
 
 	>Note: If you are already logged in the Windows 10 machine then skip to step **3**.
 
@@ -473,7 +473,7 @@ The objective of this lab is to demonstrate:
 
 Lab Duration: **10 Minutes**
 
-1. By default, **Windows 10** machine is selected click **Ctrl+Alt+Delete**.
+1. By default, **Windows 10** machine is selected click **Ctrl+Alt+Del**.
 
 	>Note: If you are already logged in the Windows 10 machine then skip to step **3**.
 
@@ -570,7 +570,7 @@ The objective of this lab is to demonstrate:
 
 Lab Duration: **10 Minutes**
 
-1. By default, **Windows 10** machine is selected click **Ctrl+Alt+Delete**.
+1. By default, **Windows 10** machine is selected click **Ctrl+Alt+Del**.
 
 	>Note: If you are already logged in the Windows 10 machine then skip to step **3**.
 
@@ -1106,7 +1106,7 @@ Lab Duration: **30 Minutes**
 
 	![](./rn4.jpg)
 
-20. Click Windows10 and click **Ctrl+Alt+Delete**.
+20. Click Windows10 and click **Ctrl+Alt+Del**.
 
 21. Type **Pa$$w0rd** in the Password field and press **Enter**.
 
@@ -1176,7 +1176,7 @@ The objective of this lab is to demonstrate:
 
 Lab Duration: **45 Minutes**
 
-1. Click Windows10 and click **Ctrl+Alt+Delete**.
+1. Click Windows10 and click **Ctrl+Alt+Del**.
 
 	>Note: If you are already logged in the **Windows 10** machine then skip to step **3**.
 
@@ -1540,7 +1540,7 @@ The objective of this lab is to demonstrate:
   
 Lab Duration: **25 Minutes**
 
-1. Click Windows10 and click **Ctrl+Alt+Delete**.
+1. Click Windows10 and click **Ctrl+Alt+Del**.
 
 	>Note: If you are already logged in the **Windows 10** machine then skip to step **3**.
 
@@ -1751,7 +1751,7 @@ The objective of this lab is to demonstrate:
 
 Lab Duration: **40 Minutes**
 
-1. Click Windows10 and click **Ctrl+Alt+Delete**.
+1. Click Windows10 and click **Ctrl+Alt+Del**.
 
 	>Note: If you are already logged in the **Windows 10** machine then skip to step **3**.
 
@@ -1952,7 +1952,7 @@ The objective of this lab is to demonstrate:
 
 Lab Duration: **40 Minutes**
 
-1. Click Windows10 and click **Ctrl+Alt+Delete**.
+1. Click Windows10 and click **Ctrl+Alt+Del**.
 
 	>Note: If you are already logged in the Windows 10 machine then skip to step **3**.
 
@@ -2184,7 +2184,7 @@ The objective of this lab is to demonstrate:
 
 Lab Duration: **20 Minutes**  
 
-1. Click Windows10 and click **Ctrl+Alt+Delete**.
+1. Click Windows10 and click **Ctrl+Alt+Del**.
 
 	>Note: If you are already logged in the Windows 10 machine then skip to step **3**.
 
