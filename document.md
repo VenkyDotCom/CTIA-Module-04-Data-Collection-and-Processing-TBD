@@ -1021,7 +1021,6 @@ It is essential for you, as an analyst to assess the preparedness of your organi
 The objective of this lab is to demonstrate:  
 
 - Phishing Employee Credentials using Social-Engineer Toolkit \(SET\)
-- Phishing Employee Credentials using SpeedPhish Framework \(SPF\)
 
 Lab Duration: **30 Minutes**  
 
@@ -1137,94 +1136,9 @@ Lab Duration: **30 Minutes**
 
 	![](./jpm5lmvy.jpg)
 
-26. Now, we shall perform phishing employee credentials using **SpeedPhish Framework \(SPF\)**. Click the **MATE Terminal** icon at the top of the **Desktop** window to open a **Terminal** window.
-
-27. In the terminal window type **cd SPF** and press **Enter**.
-
-	![](./v1xnbotr.jpg)
-
-28. Now, type **cd spf** and press **Enter**.
-
-	![](./jocgq2tp.jpg)
-
-29. **To view SPF help commands, type **./spf.py -h** and press **Enter**. Help page of SPF appears as shown in the screenshot.**
-
-	![](./1079616.jpg)
-
-30. To check the configuration of **SPF**, type **cat default.cfg** and press **Enter**. The configuration details appear as shown in the screenshot.
-
-	![](./1079617.jpg)
-
-31. In the terminal window, type **./spf.py -d example.com --test** and press **Enter** to run SPF. SPF starts by showing you the **TEMPLATE LIST** first, and then it proceeds to Start phishing web server as shown in the screenshot.
-
-	![](./1079618.jpg)
-
-32. SPF then proceeds to **Starting SMB Server**, then it starts Obtaining the list of email targets and **EMAIL LIST** and displays them. Then SPF starts Locating phishing email templates and starts Sending phishing emails one by one as shown in the screenshot.
-
-	![](./1079619.jpg)
-
-33. After SPF finishes sending phishing emails, it starts **Monitoring Services** as shown in the screenshot.
-
-	![](./1079620.jpg)
-
-34. Scroll up to locate website address of **Office 365** and note down the website address as shown in the screenshot.
-
-	![](./1079659.jpg)
-
-35. Also, locate and note down the location of the **email template** for **Office 365** as shown in the screenshot.
-
-	![](./1079661.jpg)
-
-36. Now navigate to the location of the **phishing email template** located at **/Home/SPF/spf/templates/email** and open **office365.txt**. The file opens giving you a template, which you will use to send a phishing email to the victim. Use the content of this template to compose a phishing email.
-
-	![](./1079663.jpg)
-
-37. Masquerading as an **IT Support** professional, you write an email to the victim present in the organization with the purpose of making him/her click on the phishing link obtained in Step **31**.  
-	  
-	Open a browser and log in with your email ID and compose an email as shown in the screenshot. After composing the email, place the cursor where you wish to place the fake URL. Then, click the **Insert link** icon.
-
-	>Note: In this lab we are using two **Gmail** accounts for the demonstration purpose. If you are using other email clients then screenshots will differ. In the To field type victims email ID. You can use another email account if you have.
-
-	![](./1079665.png)
-
-38. The **Edit Link** window appears. In the Text to display field type the text that you want to display \(here, **Office 365 Link**\), and in the Web address field type the malicious URL link that you have obtained at step 31 i.e., **http://192.168.1.11:8005** and click **OK**.
-
-	![](./1079668.jpg)
-
-39. The URL has been linked to **Office 365 Link** text as shown in the screenshot. Now send the e-mail to the victim in the organization.
- 
-	![](./1079669.jpg)
-
-40. Assume yourself as the victim. Now from the **Resources** pane click **Windows 10** machine, if the machine is locked login with the credentials. Open any browser \(here, **Mozilla Firefox**\), log in with the email account that you sent an email. In the Inbox click the new email that you have received, and click the **Malicious link**.
-
-	![](./1079670.jpg)
-
-41. When the victim clicks the link, he/she is redirected to a webpage which looks exactly like the **Office 365** login page, but by taking a closer look at the URL anyone can notice that it is the malicious phishing link. An unsuspecting user may not be aware of this and will continue with the malicious webpage and enters his/her user credentials and click **Sign In**.
-
-	![](./1079671.jpg)
-
-42. You may be redirected to the Google home page or to the Error page.
-
-	![](./1079672.jpg)
-
-43. Switch to **Parrot Security** machine, and switch to **SPF** terminal window, you will see that SPF has obtained the victim&rsquo;s credentials as shown in the screenshot.
-
-	>Note: If the machine is locked, log in with the credentials.
-
-	![](./1079673.jpg)
-
-44. Press **Ctrl\+C** to stop SPF and generate a report. SPF exits and displays the location of the report file as shown in the screenshot.  
-	  
-	This concludes the demonstration of phishing employee credentials using SpeedPhish Framework \(SPF\). The victim present in the organization is not aware of the phishing attacks and this can pose a threat to the organization. As an analyst, you must collect such information to build threat intelligence. You can document all the acquired information. This is the end of the lab, close all the open windows.
-
-	>Note: **Do not Cancel the Lab session until you complete all the Exercises of this module.**
-
-	![](./1079675.jpg)
-
 In this exercise, you have learnt how to perform:  
 
 - Phishing Employee Credentials using Social-Engineer Toolkit \(SET\)
-- Phishing Employee Credentials using SpeedPhish Framework \(SPF\)
 
 ---
 
@@ -1471,7 +1385,7 @@ Lab Duration: **45 Minutes**
 
 	![](./1079810.jpg)
 
-1. Now, we shall perform analyzing malware using **Blueliv Threat Exchange Network**. Open any web browser \(here, **Mozilla Firefox**\). In the address bar of the browser type **https://community.blueliv.com/\# !/u/signup** and press **Enter**. The sign-up form appears, fill the required details in the sign-up form and click **CREATE ACCOUNT** button to create an account.
+1. Now, we shall perform analyzing malware using **Blueliv Threat Exchange Network**. Open any web browser \(here, **Mozilla Firefox**\). In the address bar of the browser type **https://community.blueliv.com/#!/u/signup** and press **Enter**. The sign-up form appears, fill the required details in the sign-up form and click **CREATE ACCOUNT** button to create an account.
 
 	>Note: Please provide working email ID at the time of registration. Once the registration is done, you will receive an activation email. Activate your account as instructed in the email in order to use the tool. This site will use cookies pop-up appears, click **Accept**.
 
