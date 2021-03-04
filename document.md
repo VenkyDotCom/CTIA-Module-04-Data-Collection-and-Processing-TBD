@@ -225,7 +225,7 @@ Lab Duration: **10 Minutes**
 
 	![](./1079110.jpg)
 
-1. In order to extract information associated with the organizational website such as Site title, Site rank, Risk rating, etc. type the target website&rsquo;s URL \(here, **www.certifiedhacker.com**\) in the text field present below **What&rsquo;s that site running?** in the right pane and then click on the **Search Icon** (**--&gt;**).
+1. In order to extract information associated with the organizational website such as Site title, Site rank, Risk rating, etc. type the target website&rsquo;s URL (here, **www.certifiedhacker.com**) in the text field present below **What&rsquo;s that site running?** in the right pane and then click on the **Search Icon** (**--&gt;**).
 
 	![](./1079111.jpg)
 
