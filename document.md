@@ -41,7 +41,7 @@ Lab Duration: **25 Minutes**
 
 1. In the Password field type **Pa$$w0rd** and press **Enter** to login.
 
-	>Note: If **Networks** prompt appears once you have logged into the machine, click **Yes**.
+	> If **Networks** prompt appears once you have logged into the machine, click **Yes**.
 
 	![](./1078436.jpg)
 
@@ -292,9 +292,7 @@ Lab Duration: **10 Minutes**
 
 	![](./1079117.jpg)
 
-1. To install HTTrack Website Copier, open a File Explorer window and navigate to **D:\\CTIA-Tools\\CTIA Module 04 Data Collection and Processing\\HTTrack Website Copier** and double-click **httrack\_x64-3.49.2.exe**.  
-	  
-	Follow the wizard steps to install HTTrack Web Site Copier.
+1. To install HTTrack Website Copier, open a File Explorer window and navigate to **D:\\CTIA-Tools\\CTIA Module 04 Data Collection and Processing\\HTTrack Website Copier** and double-click **httrack\_x64-3.49.2.exe**. Follow the wizard steps to install HTTrack Web Site Copier.
 
 	>Note: If the User Account Control pop-up appears, click **Yes**.
 
