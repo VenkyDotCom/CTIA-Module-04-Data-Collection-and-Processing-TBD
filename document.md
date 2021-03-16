@@ -426,7 +426,7 @@ Lab Duration: **10 Minutes**
 
 	![](./1079349.jpg)
 
-1. 5. An Information pop-up may appear with the message; You cannot save more than 10 records in the Demo version. Click **OK**.
+1. An Information pop-up may appear with the message; You cannot save more than 10 records in the Demo version. Click **OK**.
 
 	![](./1079350.jpg)
 
