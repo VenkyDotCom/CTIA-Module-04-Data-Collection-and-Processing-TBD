@@ -41,7 +41,7 @@ Lab Duration: **25 Minutes**
 
 1. In the Password field type **Pa$$w0rd** and press **Enter** to login.
 
-	> If **Networks** prompt appears once you have logged into the machine, click **Yes**.
+	>Note: If **Networks** prompt appears once you have logged into the machine, click **Yes**.
 
 	![](./1078436.jpg)
 
@@ -1026,7 +1026,7 @@ Lab Duration: **30 Minutes**
 
     ![](./p03d2dce.jpg)
 
-	>Note: If you are already logged skip to step **3**.
+    >Note: If you are already logged skip to step **3**.
 
 2. In the login page, the **Analyst** username will be selected by default. Enter password as **toor** in the **Password** field and press **Enter** to log in to the machine.
 
