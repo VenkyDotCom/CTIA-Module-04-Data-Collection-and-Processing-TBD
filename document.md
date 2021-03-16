@@ -721,17 +721,17 @@ The objective of this lab is to perform:
 
 Lab Duration: **40 Minutes**
 
-1. [] To launch **Parrot Security** machine, click ParrotSecurityCTIA.
+1. To launch **Parrot Security** machine, click ParrotSecurityCTIA.
 
     ![](./p03d2dce.jpg)
 
-2. [] In the login page, the **Analyst** username will be selected by default. Enter password as **toor** in the **Password** field and press **Enter** to log in to the machine.
+2. In the login page, the **Analyst** username will be selected by default. Enter password as **toor** in the **Password** field and press **Enter** to log in to the machine.
 
     >[!note] If a **Parrot Updater** pop-up appears at the top-right corner of **Desktop**, ignore and close it. If a **Question** pop-up window appears asking you to update the machine, click **No** to close the window.
 
  	![](./bd5xuiu5.jpg)
 
-3. launch **Maltego** by navigating to **Applications** --> **Pentesting** --> **Information Gathering** --> **OSINT Analysis** --> **maltego**, as shown in the screenshot.
+3. Launch **Maltego** by navigating to **Applications** --> **Pentesting** --> **Information Gathering** --> **OSINT Analysis** --> **maltego**, as shown in the screenshot.
 
 	![](./cbhhcswf.jpg)
 
