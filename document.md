@@ -727,7 +727,7 @@ Lab Duration: **40 Minutes**
 
 2. In the login page, the **Analyst** username will be selected by default. Enter password as **toor** in the **Password** field and press **Enter** to log in to the machine.
 
-    >[!note] If a **Parrot Updater** pop-up appears at the top-right corner of **Desktop**, ignore and close it. If a **Question** pop-up window appears asking you to update the machine, click **No** to close the window.
+    >Note: If a **Parrot Updater** pop-up appears at the top-right corner of **Desktop**, ignore and close it. If a **Question** pop-up window appears asking you to update the machine, click **No** to close the window.
 
  	![](./bd5xuiu5.jpg)
 
@@ -741,7 +741,7 @@ Lab Duration: **40 Minutes**
 
 5. A **Product Selection** wizard appears on the Maltego GUI; click **Run** from **Maltego CE (Free)** option.
 
-    >[!note] If the **Memory Settings Optimized** pop-up appears, click **Restart Now**.
+    >Note: If the **Memory Settings Optimized** pop-up appears, click **Restart Now**.
 
 	![](./3s52wnx2.jpg)
 
@@ -752,7 +752,7 @@ Lab Duration: **40 Minutes**
 7. You will be redirected to the **Login** section.
 
 	![](./1qhkyz4w.jpg)
-
+	
 	>Note: If License Agreement pop-up appears, check the **Accept** and click **Next**. Login with the following Credentials: **tiaanalyst@gmail.com** **test@1234** and click **Next**. Once you have logged in with the Credentials click **Next**.  
 
 	![](./etf10240.jpg)
@@ -787,7 +787,7 @@ Lab Duration: **40 Minutes**
 
 16. The entity appears on the new graph, with the **www.paterva.com** URL selected by default.
 
-    >[!note] If you are not able to view the entity as shown in the screenshot, click in **the New Graph (1)** window and **scroll up**, which will increase the size of the entity.
+    >Note: If you are not able to view the entity as shown in the screenshot, click in **the New Graph (1)** window and **scroll up**, which will increase the size of the entity.
 
 	![](./u0ksdxqn.jpg)
 
@@ -957,7 +957,7 @@ Lab Duration: **40 Minutes**
 
 52. In the **[sudo] password for Analyst** field, type **toor** as a password and press **Enter**.
 
-    >[!note] The password that you type will not be visible.
+    >Note: The password that you type will not be visible.
 
 	![](./qfwvron3.jpg)
 
@@ -979,7 +979,7 @@ Lab Duration: **40 Minutes**
 
 57. In the **[sudo] password for Analyst** field, type **toor** as a password and press **Enter**.
 
-    >[!note] The password that you type will not be visible.
+    >Note: The password that you type will not be visible.
 
 	![](./0g135fzg.jpg)
 
@@ -1032,7 +1032,7 @@ Lab Duration: **30 Minutes**
 
 2. In the login page, the **Analyst** username will be selected by default. Enter password as **toor** in the **Password** field and press **Enter** to log in to the machine.
 
-    >[!note] If a **Parrot Updater** pop-up appears at the top-right corner of **Desktop**, ignore and close it. If a **Question** pop-up window appears asking you to update the machine, click **No** to close the window.
+    >Note: If a **Parrot Updater** pop-up appears at the top-right corner of **Desktop**, ignore and close it. If a **Question** pop-up window appears asking you to update the machine, click **No** to close the window.
 
  	![](./bd5xuiu5.jpg)
 	
@@ -1042,7 +1042,7 @@ Lab Duration: **30 Minutes**
 
 5. In the **[sudo] password for Analyst** field, type **toor** as a password and press **Enter**.
 
-    >[!note] The password that you type will not be visible.
+    >Note: The password that you type will not be visible.
 
 	![](./p5l4alo2.jpg)
 
@@ -2131,7 +2131,7 @@ Lab Duration: **10 Minutes**
 
 4. In the **[sudo] password for Analyst** field, type **toor** as a password and press **Enter**.
 
-	>[!note] The password that you type will not be visible.	
+	>Note: The password that you type will not be visible.	
 
 	![](./3ch2sdvm.jpg)
 
